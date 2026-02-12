@@ -30,4 +30,4 @@ This project helps users understand sorting techniques by displaying the sorting
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/sorting-algorithm-visualizer-.git
+git clone https://github.com/yourusername/sorting-algorithm-visualizer- .git
